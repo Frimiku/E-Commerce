@@ -5,4 +5,4 @@ E - Commerce 离线数仓项目聚焦电商领域。它通过收集、整合电�
 
 The E-Commerce offline data warehouse project focuses on the e-commerce domain. It collects and integrates massive amounts of data from e-commerce platforms, such as customer behavior, transaction records, and product information, and constructs a data warehouse using technologies like Hadoop and Hive. It can achieve precise customer analysis, such as customer profiling and mining purchase preferences; it can also statistically analyze store operations, including sales volume and revenue; moreover, it can provide insights into transaction patterns, helping enterprises extract valuable information from data, assist in decision-making, and enhance operational efficiency and competitiveness.
 
-![效果展示](https://foruda.gitee.com/images/1749912048198463299/e1bd63bb_13265925.png "FineShow3.png")
+![效果展示](https://gitee.com/LemonWorld/picture/raw/master/img/FineShow3.png)
